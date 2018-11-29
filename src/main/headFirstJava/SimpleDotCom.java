@@ -15,6 +15,7 @@ public class SimpleDotCom {
             if (cell == guess) {
                 result = "hit";
                 numOfHits++;
+                break;
             }
         }
         if (numOfHits == locationCells.length) {
