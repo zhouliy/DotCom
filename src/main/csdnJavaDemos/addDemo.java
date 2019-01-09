@@ -1,3 +1,5 @@
+package csdnJavaDemos;
+
 public class addDemo {
     public static void main(String[] args) {
         int sum = 0;
