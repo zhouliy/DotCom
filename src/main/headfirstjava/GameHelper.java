@@ -1,4 +1,4 @@
-package headFirstJava;
+package headfirstjava;
 
 import java.io.BufferedReader;
 import java.io.IOException;

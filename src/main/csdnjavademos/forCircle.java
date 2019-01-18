@@ -1,4 +1,4 @@
-package csdnJavaDemos;
+package csdnjavademos;
 
 public class forCircle {
     public static void main(String[] args) {

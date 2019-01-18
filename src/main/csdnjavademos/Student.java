@@ -1,4 +1,4 @@
-package csdnJavaDemos;
+package csdnjavademos;
 
 public class Student {
     private int id;

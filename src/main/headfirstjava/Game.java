@@ -1,4 +1,4 @@
-package headFirstJava;
+package headfirstjava;
 
 public class Game {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-import csdnJavaDemos.Student;
+import csdnjavademos.Student;
 
 public class StudentTest {
     public static void main(String[] args) {

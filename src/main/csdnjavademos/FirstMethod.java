@@ -1,4 +1,4 @@
-package csdnJavaDemos;
+package csdnjavademos;
 
 public class FirstMethod {
     public static void main(String[] args) {

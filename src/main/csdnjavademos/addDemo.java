@@ -1,4 +1,4 @@
-package csdnJavaDemos;
+package csdnjavademos;
 
 public class addDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package headFirstJava;
+package headfirstjava;
 
 public class Dog {
     String name;
